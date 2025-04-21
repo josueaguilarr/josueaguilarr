@@ -4,9 +4,9 @@
  const Josue = {
     position: Software Engineer,
     technologies: {
-      frontend: [Javascript, TypeScript, React]
+      frontend: [Javascript, TypeScript, React],
       backend: [PHP, NodeJS, Laravel],
-      testing: [PHPUnit, Jest]
+      testing: [PHPUnit, Jest],
       style: [CSS, TailwindCSS, Bootstrap],
       databases: [MySQL, PostgreSQL],
       loving: [Astro],
